@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Projectiles
+  - Ships
+  - Player Ship
+  - Borders
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Projectile
+    uniqueID: 2621936169
+    locked: 0
+  - name: Ship
+    uniqueID: 1844357295
+    locked: 0
+  - name: Ship Component
+    uniqueID: 2328529387
+    locked: 0
+  - name: Effect
+    uniqueID: 613988421
+    locked: 0
+  - name: UI
+    uniqueID: 3129453179
+    locked: 0
